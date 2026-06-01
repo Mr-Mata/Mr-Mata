@@ -22,9 +22,9 @@ I focus on writing clean, maintainable code and solving real-world problems thro
 > [!IMPORTANT]
 > **2026 Goal:** More Full-Stack and Data Science Projects. 💪🎯
 
-| Product                                                               | Description                             | Tech   |
+| Projects                                                              | Description                             | Tech   |
 | --------------------------------------------------------------------- | --------------------------------------- | ------ |
-| 🤖 **[Project1](https://github.com/Mr-Mata)**   | Project Description | AI/CLI |
+| 🤖 **[What Makes a Home Worth More?](https://github.com/Mr-Mata](https://github.com/Mr-Mata/house-prices-ames))**   | A Real Estate Market Intelligence Analysis | Data Analytics + ML |
 | 🤖 **[Project2](https://github.com/Mr-Mata)**   | Project Description | AI/CLI |
 | 🤖 **[Project3](https://github.com/Mr-Mata)**   | Project Description | AI/CLI |
 
