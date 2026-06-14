@@ -2,25 +2,25 @@
 <!-- Repo Banner above -->
 
 ## 💼 Mata
-**Software Developer | Full Stack & Data Projects**
+**Aspiring Data Analyst/Scientist and Software Developer**
 
 **📍 Manila, Philippines**
 
 🔗 **[LinkedIn](https://www.linkedin.com/in/gabriel-v-3404512aa/)**
 
 ## 👨‍💻 About Me
-I am a software developer with a strong foundation in computer science and hands-on experience building full-stack applications, data-driven projects, and Java-based systems.
+I am a Data Analyst/Scientist/Developer with a strong foundation in computer science and hands-on experience building full-stack applications, data-driven projects, and Java-based systems.
 
 I focus on writing clean, maintainable code and solving real-world problems through practical projects.
 
-- 🚀 Building full-stack applications using modern technologies
 - 📊 Working with data analysis and machine learning workflows
+- 🚀 Building full-stack applications using modern technologies
 - 💡 Continuously learning and improving through projects
 
 ## 🚀 Current Projects
 
 > [!IMPORTANT]
-> **2026 Goal:** More Full-Stack and Data Science Projects. 💪🎯
+> **2026 Goal:** More Data related and Full Stack Projects. 💪🎯
 
 | Projects                                                              | Description                             | Tech   |
 | --------------------------------------------------------------------- | --------------------------------------- | ------ |
@@ -69,4 +69,4 @@ I am open to **internship** and **junior developer/Entry-Level Data Analyst/Scie
 
 **📧 Email: gabrielv0908@gmail.com**
 
-💼 **[LinkedIn](https://www.linkedin.com/in/gabriel-v-3404512aa/)**
+💼 **[LinkedIn](https://www.linkedin.com/in/gav08/)**
