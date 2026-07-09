@@ -28,6 +28,19 @@ I focus on writing clean, maintainable code and solving real-world problems thro
 | 🤖 **[Pawfect-Match](https://github.com/Mr-Mata/Pawfect_Match)**   | PERN Stack project (on going) | PERN |
 | 🤖 **[Project3](https://github.com/Mr-Mata)**   | Project Description | AI/CLI |
 
+## 📜 Certifications and Badges
+
+|   | Certification | Issued By: |
+| :---: | :--- | :---: |
+| 🎓 | **Introduction to Data Science** | [**CISCO**](https://github.com/Mr-Mata/Mr-Mata/blob/main/Images/IntrotoDataScience.pdf) |
+| 🎓 | **Introduction to SQL** | [**DataCamp**](https://www.datacamp.com/completed/statement-of-accomplishment/course/f95e927734362b74406a6614eaae2b2008ec0940) |
+| 🎓 | **Intermediate SQL** | [**DataCamp**](https://www.datacamp.com/completed/statement-of-accomplishment/course/5fe5ede2245e5e523690d27b7e776e80c100aa09) |
+| 🎓 | **Joining Data in SQL** | [**DataCamp**](https://www.datacamp.com/completed/statement-of-accomplishment/course/445d82244ec5ea7cc4524251439c29258ba46e35) |
+| 🎓 | **SAS AI and Machine Learning Skills Fest** | [**View**](https://www.credly.com/badges/5dd05449-f53a-413b-b02a-6522a38fa8be/public_url) |
+| 🎓 | **AI Skills Fest 2026** | [**Microsoft**](https://www.credly.com/badges/212c8a9f-9a12-481f-8c98-d8a78522832e/public_url) |
+| 🎓 | **PL-300: Microsoft Power BI Data Analyst Associate** | **Microsoft (on-going)** |
+| 🎓 | **Associate Data Analyst in SQL** | **DataCamp (on-going)** |
+
 
 ## 🛠️ Technical Skills
 **Languages**
