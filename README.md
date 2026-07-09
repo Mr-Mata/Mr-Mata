@@ -25,7 +25,7 @@ I focus on writing clean, maintainable code and solving real-world problems thro
 | Projects                                                              | Description                             | Tech   |
 | --------------------------------------------------------------------- | --------------------------------------- | ------ |
 | 🤖 **[What Makes a Home Worth More?](https://github.com/Mr-Mata/house-prices-ames)**   | A Real Estate Market Intelligence Analysis | Data Analytics + ML |
-| 🤖 **[Project2](https://github.com/Mr-Mata)**   | Project Description | AI/CLI |
+| 🤖 **[Pawfect-Match](https://github.com/Mr-Mata/Pawfect_Match)**   | PERN Stack project (on going) | PERN |
 | 🤖 **[Project3](https://github.com/Mr-Mata)**   | Project Description | AI/CLI |
 
 
